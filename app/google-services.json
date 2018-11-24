@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1072855460176",
+    "firebase_url": "https://nhchat-2267a.firebaseio.com",
+    "project_id": "nhchat-2267a",
+    "storage_bucket": "nhchat-2267a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072855460176:android:e9d2a399bf852f3c",
+        "android_client_info": {
+          "package_name": "com.example.nh.semana02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072855460176-7dci20on5al1p6jdt74pm3c3akujeg8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nh.semana02",
+            "certificate_hash": "eb934a0a8c04cbe0bd27f072bcd4d1c4f72ee8eb"
+          }
+        },
+        {
+          "client_id": "1072855460176-iibicbj126re5oulekgkseumc478ldfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBzcAeXMkXY7eJMQwIu8N_oP65i7Lnc68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072855460176-iibicbj126re5oulekgkseumc478ldfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
